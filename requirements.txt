@@ -1,0 +1,10 @@
+weasyprint
+beautifulsoup4
+lxml
+langchain
+gguf
+pinecone-client
+pypdf
+sentence-transformers
+chromadb
+click

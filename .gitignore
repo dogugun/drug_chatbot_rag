@@ -1,0 +1,7 @@
+/db/
+/models/*.bin
+/venv/
+/data/*
+!/data/README.md
+/.env
+/.idea/*
